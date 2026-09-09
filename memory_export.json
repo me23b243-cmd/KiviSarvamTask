@@ -1,0 +1,929 @@
+{
+  "aditya : Aaditya": {
+    "og_word": "aditya",
+    "pref_word": "Aaditya",
+    "occurrence": 7,
+    "context": [
+      "\"Aaditya is used as a person's proper name, typically capitalized and pronounced with a long 'i' sound, especially in formal or official contexts.\""
+    ],
+    "representative": "aditya : Aaditya"
+  },
+  "kiwi : Kivi": {
+    "og_word": "kiwi",
+    "pref_word": "Kivi",
+    "occurrence": 6,
+    "context": [
+      "\"Kivi\" denotes a proper noun representing a software/service name, typically capitalized, used in formal contexts like technical documentation and meetings. Use \"Kivi\" in place of \"kiwi\" when referring to such entities."
+    ],
+    "representative": "kiwi : Kivi"
+  },
+  "suman : Sumanth": {
+    "og_word": "suman",
+    "pref_word": "Sumanth",
+    "occurrence": 5,
+    "context": [
+      "\"Sumanth represents a person's proper name used in formal contexts, while suman is likely an ASR error or informal misspelling.\""
+    ],
+    "representative": "suman : Sumanth"
+  },
+  "naveen : Naveen": {
+    "og_word": "naveen",
+    "pref_word": "Naveen",
+    "occurrence": 5,
+    "context": [
+      "\"Naveen represents a person's proper name in titles or roles, typically capitalized; use 'Naveen' in formal contexts where full name is expected.\""
+    ],
+    "representative": "naveen : Naveen"
+  },
+  "sarvam : Sarvam": {
+    "og_word": "sarvam",
+    "pref_word": "Sarvam",
+    "occurrence": 5,
+    "context": [
+      "\"Sarvam\" represents a lowercase term likely referring to a group or organization; \"Sarvam\" is its capitalized, preferred form, typically used in titles or formal contexts. Use \"Sarvam\" when referring to a specific team or entity named Sarvam."
+    ],
+    "representative": "sarvam : Sarvam"
+  },
+  "to : two": {
+    "og_word": "to",
+    "pref_word": "two",
+    "occurrence": 2,
+    "context": [
+      "\"Use 'two' instead of 'to' when referring to a quantity greater than one in numerical contexts.\""
+    ],
+    "representative": "to : two"
+  },
+  "there : their": {
+    "og_word": "there",
+    "pref_word": "their",
+    "occurrence": 3,
+    "context": [
+      "\"There\" denotes location, while \"their\" denotes possession or ownership; use \"their\" after pronouns referring to groups or entities."
+    ],
+    "representative": "there : their"
+  },
+  "there : they're": {
+    "og_word": "there",
+    "pref_word": "they're",
+    "occurrence": 1,
+    "context": [
+      "\"They're\" replaces \"there\" when it refers to a contraction of \"they are,\" indicating present tense agreement, especially after verbs like \"said\" or similar past-tense actions."
+    ],
+    "representative": "there : they're"
+  },
+  "site : cite": {
+    "og_word": "site",
+    "pref_word": "cite",
+    "occurrence": 3,
+    "context": [
+      "\"Sites are typically sources or locations, while cite refers to referencing; use 'cite' when referring to the act of quoting or referencing something.\""
+    ],
+    "representative": "site : cite"
+  },
+  "site : sight": {
+    "og_word": "site",
+    "pref_word": "sight",
+    "occurrence": 1,
+    "context": [
+      "\"sight\" is used to denote visibility or perception, while \"site\" typically refers to a location; \"sight\" is preferred when referring to visual perception, especially in contexts like describing the appearance of something coming into view."
+    ],
+    "representative": "site : sight"
+  },
+  "right : write": {
+    "og_word": "right",
+    "pref_word": "write",
+    "occurrence": 4,
+    "context": [
+      "\"Right\" is used as a verb meaning \"to compose or express in writing,\" while \"write\" is a verb meaning \"to produce in writing.\" Use \"write\" when referring to the act of producing content, especially in contexts requiring precise action or instruction."
+    ],
+    "representative": "right : write"
+  },
+  "right : rite": {
+    "og_word": "right",
+    "pref_word": "rite",
+    "occurrence": 2,
+    "context": [
+      "\"rite\" is used for specific ceremonial or ritual contexts, replacing \"right\" in formal or traditional settings before important events."
+    ],
+    "representative": "right : rite"
+  },
+  "by : buy": {
+    "og_word": "by",
+    "pref_word": "buy",
+    "occurrence": 2,
+    "context": [
+      "\"by\" indicates nearness or accompaniment; \"buy\" suggests action of purchasing, use this when \"buy\" clarifies the intended action rather than mere proximity or accompaniment in a transactional context."
+    ],
+    "representative": "by : buy"
+  },
+  "by : bye": {
+    "og_word": "by",
+    "pref_word": "bye",
+    "occurrence": 1,
+    "context": [
+      "\"bye\" is used as a casual farewell term after \"by\" when indicating departure or conclusion, especially in social contexts like meetings or reviews."
+    ],
+    "representative": "by : bye"
+  },
+  "bye : byee": {
+    "og_word": "bye",
+    "pref_word": "byee",
+    "occurrence": 1,
+    "context": [
+      "\"byee\" indicates emphasis or finality at the end of a phrase, especially when preceding a preposition or conjunction, thus replacing \"bye\" improves clarity and flow in such contexts."
+    ],
+    "representative": "bye : byee"
+  },
+  "you're : your": {
+    "og_word": "you're",
+    "pref_word": "your",
+    "occurrence": 1,
+    "context": [
+      "\"you're\" is used to denote \"you are\" before a verb; \"your\" is the correct form after it in possession or address. Replace \"you're\" with \"your\" when it precedes a verb following \"you're\" in a phrase indicating possession or address."
+    ],
+    "representative": "you're : your"
+  },
+  "here : hear": {
+    "og_word": "here",
+    "pref_word": "hear",
+    "occurrence": 1,
+    "context": [
+      "Here is used as a location, while hear is used for listening, indicated when clarifying a need to listen to something."
+    ],
+    "representative": "here : hear"
+  },
+  "won : one": {
+    "og_word": "won",
+    "pref_word": "one",
+    "occurrence": 1,
+    "context": [
+      "\"One\" is used as a numeral representing quantity, replacing \"won\" which is often a past tense verb form in this context."
+    ],
+    "representative": "won : one"
+  },
+  "see : sea": {
+    "og_word": "see",
+    "pref_word": "sea",
+    "occurrence": 1,
+    "context": [
+      "\"see\" represents a misspelling of \"sea\" when referring to the body of water, corrected when describing the act of observing something from a height."
+    ],
+    "representative": "see : sea"
+  },
+  "flour : flower": {
+    "og_word": "flour",
+    "pref_word": "flower",
+    "occurrence": 1,
+    "context": [
+      "\"flower\" is used as a person's proper name in contexts where \"flour\" would be expected, especially in titles or names of baked goods."
+    ],
+    "representative": "flour : flower"
+  },
+  "weak : week": {
+    "og_word": "weak",
+    "pref_word": "week",
+    "occurrence": 1,
+    "context": [
+      "\"week\" correctly denotes a state of being unsteady or uncertain, whereas \"weak\" typically refers to physical frailty; use \"week\" when describing a lack of clarity or effectiveness, especially in contexts like signal strength or mental clarity."
+    ],
+    "representative": "weak : week"
+  },
+  "knew : new": {
+    "og_word": "knew",
+    "pref_word": "new",
+    "occurrence": 1,
+    "context": [
+      "\"knew\" incorrectly represents past tense of \"know\"; \"new\" correctly represents the present participle or past tense without specifying tense ambiguity. Use \"new\" when the context clearly indicates present tense or non-specific past tense."
+    ],
+    "representative": "knew : new"
+  },
+  "know : no": {
+    "og_word": "know",
+    "pref_word": "no",
+    "occurrence": 1,
+    "context": [
+      "\"No\" represents a misspelling or incorrect usage of \"now,\" which is more appropriate in contexts requiring present tense or immediacy, unlike \"know\" which typically denotes awareness or understanding."
+    ],
+    "representative": "know : no"
+  },
+  "piece : peace": {
+    "og_word": "piece",
+    "pref_word": "peace",
+    "occurrence": 1,
+    "context": [
+      "\"piece\" misrepresents \"peace\" when used idiomatically to mean \"to end conflict,\" especially in contexts like reviews or ceremonies."
+    ],
+    "representative": "piece : peace"
+  },
+  "hole : whole": {
+    "og_word": "hole",
+    "pref_word": "whole",
+    "occurrence": 1,
+    "context": [
+      "\"whole\" represents a complete entity, while \"hole\" suggests an empty space; use \"whole\" when referring to something complete rather than empty."
+    ],
+    "representative": "hole : whole"
+  },
+  "whether : weather": {
+    "og_word": "whether",
+    "pref_word": "weather",
+    "occurrence": 3,
+    "context": [
+      "\"weather\" correctly represents current conditions, while \"whether\" is used here to mean \"if\" or \"whether\" indicating a choice or possibility, especially when discussing forecasts or decisions. Use \"weather\" when referring to actual weather phenomena."
+    ],
+    "representative": "whether : weather"
+  },
+  "where : wear": {
+    "og_word": "where",
+    "pref_word": "wear",
+    "occurrence": 1,
+    "context": [
+      "\"where\" is used questionally at the start of a sentence; \"wear\" is used as a verb meaning to put on clothes, fitting this context better."
+    ],
+    "representative": "where : wear"
+  },
+  "bear : bare": {
+    "og_word": "bear",
+    "pref_word": "bare",
+    "occurrence": 1,
+    "context": [
+      "\"Bear\" represents a noun meaning \"large omnivorous mammal,\" while \"bare\" represents a verb meaning \"to completely remove.\" Use \"bare\" when describing something being completely removed, especially in contexts like weather conditions or physical states, avoiding its common use for large mammals."
+    ],
+    "representative": "bear : bare"
+  },
+  "brake : break": {
+    "og_word": "brake",
+    "pref_word": "break",
+    "occurrence": 1,
+    "context": [
+      "\"brake\" represents a vehicle component, while \"break\" here refers to stopping abruptly; use \"break\" when describing physical braking action, not its function."
+    ],
+    "representative": "brake : break"
+  },
+  "sell : cell": {
+    "og_word": "sell",
+    "pref_word": "cell",
+    "occurrence": 1,
+    "context": [
+      "\"cell\" represents a verb meaning to imprison, while \"sell\" means to trade or dispose of; use \"cell\" when referring to confining someone, as in locking up, due to the context of incarceration in the given examples."
+    ],
+    "representative": "sell : cell"
+  },
+  "deer : dear": {
+    "og_word": "deer",
+    "pref_word": "dear",
+    "occurrence": 1,
+    "context": [
+      "\"dear\" expresses endearment or affection, typically used in addressing someone respectfully; \"deer\" is a common noun referring to the animal, hence \"dear\" is preferred in contexts of endearing address."
+    ],
+    "representative": "deer : dear"
+  },
+  "fare : fair": {
+    "og_word": "fare",
+    "pref_word": "fair",
+    "occurrence": 1,
+    "context": [
+      "\"Fare\" represents a fee or charge, while \"fair\" means fair or equitable. Use \"fair\" when referring to something being just or reasonable, especially in contexts like policy changes affecting multiple parties."
+    ],
+    "representative": "fare : fair"
+  },
+  "male : mail": {
+    "og_word": "male",
+    "pref_word": "mail",
+    "occurrence": 1,
+    "context": [
+      "\"mail\" is used as a noun referring to letters or packages, while \"male\" refers to gender; replace \"male\" with \"mail\" when referring to mail-related items or services."
+    ],
+    "representative": "male : mail"
+  },
+  "meet : meat": {
+    "og_word": "meet",
+    "pref_word": "meat",
+    "occurrence": 1,
+    "context": [
+      "\"meet\" incorrectly represents a noun in these contexts; \"meat\" is the correct noun form used for food."
+    ],
+    "representative": "meet : meat"
+  },
+  "knight : night": {
+    "og_word": "knight",
+    "pref_word": "night",
+    "occurrence": 1,
+    "context": [
+      "\"knight\" represents a misspelling of \"night\" occurring before a noun or proper name, indicating a contextual need for \"night\" to function correctly in its grammatical role."
+    ],
+    "representative": "knight : night"
+  },
+  "pear : pair": {
+    "og_word": "pear",
+    "pref_word": "pair",
+    "occurrence": 1,
+    "context": [
+      "Pair represents a set of two items, while pear is a fruit; \"pear\" should be replaced by \"pair\" when referring to a set of gloves in a shopping context."
+    ],
+    "representative": "pear : pair"
+  },
+  "plane : plain": {
+    "og_word": "plane",
+    "pref_word": "plain",
+    "occurrence": 1,
+    "context": [
+      "\"plain\" represents a noun meaning a flat surface, while \"plane\" means an aircraft; use \"plain\" when referring to the condition of something being flat or smooth, not when describing an aircraft."
+    ],
+    "representative": "plane : plain"
+  },
+  "aloud : allowed": {
+    "og_word": "aloud",
+    "pref_word": "allowed",
+    "occurrence": 1,
+    "context": [
+      "\"allowed\" is used to indicate permission or authorization, typically following verbs like \"permit,\" \"allow,\" or \"authorize,\" whereas \"aloud\" means out loud; replace \"aloud\" with \"allowed\" when preceding verbs imply granting permission or authorization."
+    ],
+    "representative": "aloud : allowed"
+  },
+  "compliment : complement": {
+    "og_word": "compliment",
+    "pref_word": "complement",
+    "occurrence": 1,
+    "context": [
+      "Compliment typically denotes praise, while complement implies something that enhances or completes. Use \"complement\" when describing something that enhances another, as seen in \"She gave him a complement after the presentation.\""
+    ],
+    "representative": "compliment : complement"
+  },
+  "pytorch : PyTorch": {
+    "og_word": "pytorch",
+    "pref_word": "PyTorch",
+    "occurrence": 4,
+    "context": [
+      "\"Acronyms expanded in titles become all-caps; 'pytorch' appears in lowercase in all given examples, while 'PyTorch' is correctly capitalized in title-like contexts.\""
+    ],
+    "representative": "pytorch : PyTorch"
+  },
+  "chromadb : ChromaDB": {
+    "og_word": "chromadb",
+    "pref_word": "ChromaDB",
+    "occurrence": 4,
+    "context": [
+      "\"ChromaDB\" is used as a proper noun or brand name, typically capitalized, in contexts where \"chromadb\" might appear due to ASR errors or informal writing; prefer \"ChromaDB\" in formal or technical documents."
+    ],
+    "representative": "chromadb : ChromaDB"
+  },
+  "langchain : LangChain": {
+    "og_word": "langchain",
+    "pref_word": "LangChain",
+    "occurrence": 2,
+    "context": [
+      "LangChain denotes a named entity (tool/service) and is capitalized consistently in titles or headings, thus replacing \"langchain\" with \"LangChain\" improves readability and adheres to standard capitalization rules."
+    ],
+    "representative": "langchain : LangChain"
+  },
+  "cuda : CUDA": {
+    "og_word": "cuda",
+    "pref_word": "CUDA",
+    "occurrence": 2,
+    "context": [
+      "CUDA denotes a brand or technology name, typically capitalized in technical contexts; \"cuda\" is likely an ASR error or lowercase misrecognition thereof."
+    ],
+    "representative": "cuda : CUDA"
+  },
+  "jetson : Jetson": {
+    "og_word": "jetson",
+    "pref_word": "Jetson",
+    "occurrence": 1,
+    "context": [
+      "\"jetson\" represents a misspelling of \"Jetson,\" typically found in ASR errors referring to the Jetson family, which should be corrected to \"Jetson\" when referring to the technology brand."
+    ],
+    "representative": "jetson : Jetson"
+  },
+  "dvl : DVL": {
+    "og_word": "dvl",
+    "pref_word": "DVL",
+    "occurrence": 1,
+    "context": [
+      "\"DVL represents a proper noun for a device; it is capitalized and used correctly in formal contexts, thus replacing dvl with DVL improves clarity and adherence to style guides.\""
+    ],
+    "representative": "dvl : DVL"
+  },
+  "aqua : Aqua": {
+    "og_word": "aqua",
+    "pref_word": "Aqua",
+    "occurrence": 1,
+    "context": [
+      "\"Aqua is used as a brand name or title; use Aqua when referring to a specific product or person, especially in titles or acronyms like Aqua Reviews.\""
+    ],
+    "representative": "aqua : Aqua"
+  },
+  "kivi : Kivi": {
+    "og_word": "kivi",
+    "pref_word": "Kivi",
+    "occurrence": 3,
+    "context": [
+      "\"kivi\" represents a common misspelling of \"Kivi,\" typically occurring in contexts where the proper name or technical term \"Kivi\" is intended, especially in formal or technical writing."
+    ],
+    "representative": "kivi : Kivi"
+  },
+  "sam : Sameer": {
+    "og_word": "sam",
+    "pref_word": "Sameer",
+    "occurrence": 4,
+    "context": [
+      "\"Sam\" represents a misspelling or informal abbreviation of \"Sameer,\" typically used in casual contexts where \"Sameer\" would be the formal, preferred term. Correct usage is indicated when referring to a specific person, especially in professional or formal settings."
+    ],
+    "representative": "sam : Sameer"
+  },
+  "lee : Leigh": {
+    "og_word": "lee",
+    "pref_word": "Leigh",
+    "occurrence": 1,
+    "context": [
+      "\"Lee is an informal or misspelled form of Leigh, typically used in casual contexts or ASR errors preceding formal references.\""
+    ],
+    "representative": "lee : Leigh"
+  },
+  "tara : Taara": {
+    "og_word": "tara",
+    "pref_word": "Taara",
+    "occurrence": 1,
+    "context": [
+      "Taara represents a person's proper name in titles or formal contexts, while tara is a common noun. Use Taara in titles or formal texts referring to individuals, and tara in general usage or informal contexts."
+    ],
+    "representative": "tara : Taara"
+  },
+  "rohit : Rohith": {
+    "og_word": "rohit",
+    "pref_word": "Rohith",
+    "occurrence": 1,
+    "context": [
+      "\"Rohith represents a person's proper name, typically capitalized and used in formal contexts, while rohit is likely an ASR error or informal variant.\""
+    ],
+    "representative": "rohit : Rohith"
+  },
+  "mark : Mark": {
+    "og_word": "mark",
+    "pref_word": "Mark",
+    "occurrence": 4,
+    "context": [
+      "\"Mark\" represents a person's proper name in titles or formal contexts; use \"Mark\" when referring to a specific individual formally."
+    ],
+    "representative": "mark : Mark"
+  },
+  "may : May": {
+    "og_word": "may",
+    "pref_word": "May",
+    "occurrence": 4,
+    "context": [
+      "\"May\" represents a month abbreviation, while \"May\" denotes the capitalized month name. Use \"May\" in contexts where the capitalized month name is required, typically before a day of the month."
+    ],
+    "representative": "may : May"
+  },
+  "Aditya : Aaditya": {
+    "og_word": "Aditya",
+    "pref_word": "Aaditya",
+    "occurrence": 15,
+    "context": [
+      "\"Aaditya is used as a person's proper name, typically preceding 'Aditya' in titles or formal contexts, indicating a more formal or official setting.\""
+    ],
+    "representative": "Aditya : Aaditya"
+  },
+  "tesla : Tesla": {
+    "og_word": "tesla",
+    "pref_word": "Tesla",
+    "occurrence": 1,
+    "context": [
+      "\"Tesla\" represents a brand name, typically capitalized; use \"Tesla\" when referring to the electric vehicle company, especially in formal contexts or when the brand is being emphasized."
+    ],
+    "representative": "tesla : Tesla"
+  },
+  "Calefornia : California": {
+    "og_word": "Calefornia",
+    "pref_word": "California",
+    "occurrence": 2,
+    "context": [
+      "\"Calefornia\" likely represents a misspelling of \"California,\" typically occurring in casual speech or ASR errors, where \"Calif.\" is mistakenly expanded to \"California\" without the necessary full spelling."
+    ],
+    "representative": "Calefornia : California"
+  },
+  "Swiggi : Swiggy": {
+    "og_word": "Swiggi",
+    "pref_word": "Swiggy",
+    "occurrence": 4,
+    "context": [
+      "Swiggi represents an ASR error for Swiggy, occurring when users input the brand name without capitalizing the second 'g'."
+    ],
+    "representative": "Swiggi : Swiggy"
+  },
+  "Spotifi : Spotify": {
+    "og_word": "Spotifi",
+    "pref_word": "Spotify",
+    "occurrence": 2,
+    "context": [
+      "\"Spotify\" is used for music streaming services; \"Spotifi\" likely represents an ASR error or colloquial misspelling that should be corrected to \"Spotify.\""
+    ],
+    "representative": "Spotifi : Spotify"
+  },
+  "Banglore : Bangalore": {
+    "og_word": "Banglore",
+    "pref_word": "Bangalore",
+    "occurrence": 1,
+    "context": [
+      "\"Banglore\" represents a common ASR error for \"Bangalore\"; correct it in all contexts."
+    ],
+    "representative": "Banglore : Bangalore"
+  },
+  "mustang : Mustang": {
+    "og_word": "mustang",
+    "pref_word": "Mustang",
+    "occurrence": 1,
+    "context": [
+      "\"Mustang\" represents a vehicle type, while \"Mustang\" denotes a brand name; capitalize both for brand consistency. Use \"Mustang\" in contexts referring to the Ford brand."
+    ],
+    "representative": "mustang : Mustang"
+  },
+  "rite : write": {
+    "og_word": "rite",
+    "pref_word": "write",
+    "occurrence": 8,
+    "context": [
+      "\"rite\" represents a misspelling of \"write\" used when referring to the act of composing text, especially in contexts where the intended meaning is clear despite the typo, such as in instructions or casual speech. \"Write\" is the preferred form used in formal or precise writing contexts, indicating the act of producing written content."
+    ],
+    "representative": "rite : write"
+  },
+  "Light : Lite": {
+    "og_word": "Light",
+    "pref_word": "Lite",
+    "occurrence": 1,
+    "context": [
+      "Lite represents a brand name or product designation, often used in tech contexts for lighter alternatives; Light is more generic and less likely to be the preferred term in such contexts."
+    ],
+    "representative": "Light : Lite"
+  },
+  "Kiwi : Kivi": {
+    "og_word": "Kiwi",
+    "pref_word": "Kivi",
+    "occurrence": 3,
+    "context": [
+      "\"Kiwi\" represents a brand name or product name, while \"Kivi\" is likely its intended spelling, especially in contexts indicating technical or corporate terminology. Use \"Kivi\" when referring to official company platforms or products."
+    ],
+    "representative": "Kiwi : Kivi"
+  },
+  "amazon : Amazon": {
+    "og_word": "amazon",
+    "pref_word": "Amazon",
+    "occurrence": 2,
+    "context": [
+      "\"Amazon\" represents a company name; use \"Amazon\" when referring to the e-commerce giant, especially in contexts discussing business partnerships or integrations."
+    ],
+    "representative": "amazon : Amazon"
+  },
+  "meta : Meta": {
+    "og_word": "meta",
+    "pref_word": "Meta",
+    "occurrence": 1,
+    "context": [
+      "Meta denotes a brand or company name, typically capitalized; it appears before a proper noun or in titles, hence \"Meta\" is preferred."
+    ],
+    "representative": "meta : Meta"
+  },
+  "oracle : Oracle": {
+    "og_word": "oracle",
+    "pref_word": "Oracle",
+    "occurrence": 1,
+    "context": [
+      "Oracle is capitalized and typically denotes a company name; it should be capitalized as \"Oracle\" in titles or headings discussing the company."
+    ],
+    "representative": "oracle : Oracle"
+  },
+  "week : weak": {
+    "og_word": "week",
+    "pref_word": "weak",
+    "occurrence": 2,
+    "context": [
+      "Weakness is more contextually appropriate than week when describing physical or mental state post-event, indicating fatigue or lack of strength."
+    ],
+    "representative": "week : weak"
+  },
+  "cite : site": {
+    "og_word": "cite",
+    "pref_word": "site",
+    "occurrence": 2,
+    "context": [
+      "\"Site\" is used to denote a location or destination, while \"cite\" refers to referencing sources; \"site\" is preferred when referring to a place accessible online, especially in contexts like reports or academic writing."
+    ],
+    "representative": "cite : site"
+  },
+  "weather : whether": {
+    "og_word": "weather",
+    "pref_word": "whether",
+    "occurrence": 1,
+    "context": [
+      "Whether \"weather\" appears without logical context indicating meteorological conditions, it should be replaced by \"whether\" to indicate a choice or possibility."
+    ],
+    "representative": "weather : whether"
+  },
+  "Die : Dye": {
+    "og_word": "Die",
+    "pref_word": "Dye",
+    "occurrence": 1,
+    "context": [
+      "\"Dye\" is used for coloring fabrics, replacing \"Die\" which typically means to kill, especially when referring to dyeing actions in contexts like textile processing."
+    ],
+    "representative": "Die : Dye"
+  },
+  "Die : dye": {
+    "og_word": "Die",
+    "pref_word": "dye",
+    "occurrence": 1,
+    "context": [
+      "\"dye\" is used as a verb meaning to color, replacing \"Die\" which is often an incorrect misspelling of \"dye\" in contexts of coloring fabrics or materials."
+    ],
+    "representative": "Die : dye"
+  },
+  "Core : Kore": {
+    "og_word": "Core",
+    "pref_word": "Kore",
+    "occurrence": 1,
+    "context": [
+      "Kore represents a brand name or proprietary term used in technical contexts, while Core typically denotes a fundamental component; \"Kore\" is preferred when referring to a specific software product in database analysis applications."
+    ],
+    "representative": "Core : Kore"
+  },
+  "mayor : Meher": {
+    "og_word": "mayor",
+    "pref_word": "Meher",
+    "occurrence": 1,
+    "context": [
+      "Meher represents a person's proper name in contexts where \"mayor\" would typically refer to a public office holder, indicating a likely ASR error or colloquial usage."
+    ],
+    "representative": "mayor : Meher"
+  },
+  "Ananiya : Ananya": {
+    "og_word": "Ananiya",
+    "pref_word": "Ananya",
+    "occurrence": 2,
+    "context": [
+      "Ananiya is likely a misheard or misspelled form of Ananya, commonly corrected in professional contexts like suggesting a release date or relocating to a new city."
+    ],
+    "representative": "Ananiya : Ananya"
+  },
+  "Rithik : Rithvik": {
+    "og_word": "Rithik",
+    "pref_word": "Rithvik",
+    "occurrence": 3,
+    "context": [
+      "Rithvik represents a more common or official version of the name, typically used in professional contexts like business communications, whereas Rithik may indicate a less formal or informal usage or an ASR error. Use Rithvik in new sentences for consistency and clarity in such contexts."
+    ],
+    "representative": "Rithik : Rithvik"
+  },
+  "Shreyash : Shreyas": {
+    "og_word": "Shreyash",
+    "pref_word": "Shreyas",
+    "occurrence": 2,
+    "context": [
+      "\"Shreyash\" is likely a misspelling or informal variant of \"Shreyas,\" typically used in casual speech or text messages, whereas \"Shreyas\" is the formal preferred spelling, often seen in official documents or professional contexts."
+    ],
+    "representative": "Shreyash : Shreyas"
+  },
+  "Neha : Nehaa": {
+    "og_word": "Neha",
+    "pref_word": "Nehaa",
+    "occurrence": 2,
+    "context": [
+      "Neha is likely a phonetic approximation in informal speech; Nehaa correctly represents the intended pronunciation in formal or written contexts."
+    ],
+    "representative": "Neha : Nehaa"
+  },
+  "Xerodha : Zerodha": {
+    "og_word": "Xerodha",
+    "pref_word": "Zerodha",
+    "occurrence": 3,
+    "context": [
+      "Xerodha is likely an ASR error for Zerodha, especially when referring to a company name in professional contexts like financial services."
+    ],
+    "representative": "Xerodha : Zerodha"
+  },
+  "cred : CRED": {
+    "og_word": "cred",
+    "pref_word": "CRED",
+    "occurrence": 1,
+    "context": [
+      "\"Cred\" is likely an ASR error for \"CRED,\" used here as a proper noun representing a financial service platform."
+    ],
+    "representative": "cred : CRED"
+  },
+  "Groo : Groww": {
+    "og_word": "Groo",
+    "pref_word": "Groww",
+    "occurrence": 1,
+    "context": [
+      "Groww is used as a brand name or company identifier, replacing Groo in contexts where it appears to refer to a financial service platform."
+    ],
+    "representative": "Groo : Groww"
+  },
+  "Meeshoe : Meesho": {
+    "og_word": "Meeshoe",
+    "pref_word": "Meesho",
+    "occurrence": 2,
+    "context": [
+      "\"Meeshoe\" is likely an ASR error for \"Meesho\", occurring when initial 'M' is misinterpreted as 'Me'."
+    ],
+    "representative": "Meeshoe : Meesho"
+  },
+  "cutlass : Kutlas": {
+    "og_word": "cutlass",
+    "pref_word": "Kutlas",
+    "occurrence": 1,
+    "context": [
+      "Kutlas represents a proper noun likely referring to a person's name or title, while cutlass is a common noun; use Kutlas when it appears to refer to a specific individual or entity rather than a weapon."
+    ],
+    "representative": "cutlass : Kutlas"
+  },
+  "nimbus : Nimbuzz": {
+    "og_word": "nimbus",
+    "pref_word": "Nimbuzz",
+    "occurrence": 2,
+    "context": [
+      "\"Nimbuzz is used as a brand name or service identifier in contexts where Nimbuzz is specifically referenced or preferred over nimbus, such as in tech support communications.\""
+    ],
+    "representative": "nimbus : Nimbuzz"
+  },
+  "Helius : Helios": {
+    "og_word": "Helius",
+    "pref_word": "Helios",
+    "occurrence": 2,
+    "context": [
+      "Helius is likely a misspelling of Helios, typically corrected in technical contexts referring to solar gods or systems, especially when the correct form appears in similar contexts without errors."
+    ],
+    "representative": "Helius : Helios"
+  },
+  "sonar : Sonarr": {
+    "og_word": "sonar",
+    "pref_word": "Sonarr",
+    "occurrence": 2,
+    "context": [
+      "\"Sonarr\" is used as a proper noun or brand name, typically capitalized, in contexts indicating specialized systems or software, unlike \"sonar\" which generally refers to sonar technology."
+    ],
+    "representative": "sonar : Sonarr"
+  },
+  "vector : Vektor": {
+    "og_word": "vector",
+    "pref_word": "Vektor",
+    "occurrence": 2,
+    "context": [
+      "\"Vektor\" represents a proper noun referring to a specific service or system name, typically capitalized in titles or formal contexts, while \"vector\" is a common English term often lowercase in technical writing. Use \"Vektor\" in titles, names, or formal documents where the service is uniquely identified."
+    ],
+    "representative": "vector : Vektor"
+  },
+  "cash : cache": {
+    "og_word": "cash",
+    "pref_word": "cache",
+    "occurrence": 1,
+    "context": [
+      "\"cache\" is used to refer to a storage mechanism, while \"cash\" typically means money; \"cache\" is preferred when referring to a temporary data storage area in computing contexts."
+    ],
+    "representative": "cash : cache"
+  },
+  "note : Node": {
+    "og_word": "note",
+    "pref_word": "Node",
+    "occurrence": 1,
+    "context": [
+      "\"Node\" is used for JavaScript framework, replacing \"note\" indicates a likely misrecognition of \"Node.js\" in context."
+    ],
+    "representative": "note : Node"
+  },
+  "pearl : Perl": {
+    "og_word": "pearl",
+    "pref_word": "Perl",
+    "occurrence": 2,
+    "context": [
+      "\"Perl\" represents the programming language name, while \"pearl\" typically refers to the gemstone; in technical contexts, especially when discussing software development tools, \"Perl\" is the correct term."
+    ],
+    "representative": "pearl : Perl"
+  },
+  "colonel : kernel": {
+    "og_word": "colonel",
+    "pref_word": "kernel",
+    "occurrence": 2,
+    "context": [
+      "\"kernel\" represents a technical term in computing contexts, while \"colonel\" refers to a military rank; replace \"colonel\" with \"kernel\" when referring to the computer science concept."
+    ],
+    "representative": "colonel : kernel"
+  },
+  "sequel : SQL": {
+    "og_word": "sequel",
+    "pref_word": "SQL",
+    "occurrence": 2,
+    "context": [
+      "\"sequel\" typically refers to a follow-up work, while \"SQL\" specifically denotes Structured Query Language; replace \"sequel\" with \"SQL\" when referring to database queries or technologies."
+    ],
+    "representative": "sequel : SQL"
+  },
+  "Puna : Pune": {
+    "og_word": "Puna",
+    "pref_word": "Pune",
+    "occurrence": 2,
+    "context": [
+      "\"Puna is likely a misspelling of Pune, often corrected in spoken data where 'Pune' is the intended city name.\""
+    ],
+    "representative": "Puna : Pune"
+  },
+  "Jaipoor : Jaipur": {
+    "og_word": "Jaipoor",
+    "pref_word": "Jaipur",
+    "occurrence": 2,
+    "context": [
+      "Jaipoor represents a misspelling or misheard version of Jaipur, which is commonly used as a place name in contexts referring to the Indian city."
+    ],
+    "representative": "Jaipoor : Jaipur"
+  },
+  "Cochin : Kochi": {
+    "og_word": "Cochin",
+    "pref_word": "Kochi",
+    "occurrence": 1,
+    "context": [
+      "\"Cochin\" represents a historical or colloquial term for Kochi; \"Kochi\" is the standard, modern spelling and preferred term in official contexts. Use \"Kochi\" in all new sentences unless referring to historical documents or personal names."
+    ],
+    "representative": "Cochin : Kochi"
+  },
+  "Gurgaon : Gurugram": {
+    "og_word": "Gurgaon",
+    "pref_word": "Gurugram",
+    "occurrence": 2,
+    "context": [
+      "\"Gurgaon\" represents a misspelling of \"Gurugram,\" typically found in ASR errors or informal writing; \"Gurugram\" is the official and preferred spelling used in formal contexts."
+    ],
+    "representative": "Gurgaon : Gurugram"
+  },
+  "Cagel : Kaggle": {
+    "og_word": "Cagel",
+    "pref_word": "Kaggle",
+    "occurrence": 2,
+    "context": [
+      "\"Cagel\" likely refers to a misspelling of \"Kaggle,\" used here in contexts where \"Kaggle\" would be the correct term for a data science competition platform."
+    ],
+    "representative": "Cagel : Kaggle"
+  },
+  "Replet : Replit": {
+    "og_word": "Replet",
+    "pref_word": "Replit",
+    "occurrence": 1,
+    "context": [
+      "\"Replet\" likely refers to a misspelling or alternative name for \"Replit,\" which is correctly used in contexts like software development platforms. Use \"Replit\" in new sentences where referring to a coding platform."
+    ],
+    "representative": "Replet : Replit"
+  },
+  "Codepin : CodePen": {
+    "og_word": "Codepin",
+    "pref_word": "CodePen",
+    "occurrence": 1,
+    "context": [
+      "\"CodePin\" is likely an ASR error for \"CodePen\", occurring when users input the URL incorrectly."
+    ],
+    "representative": "Codepin : CodePen"
+  },
+  "versal : Vercel": {
+    "og_word": "versal",
+    "pref_word": "Vercel",
+    "occurrence": 2,
+    "context": [
+      "\"Vercel\" represents the name of a hosting platform, typically capitalized, used in tech contexts; \"versal\" appears to be an ASR error for \"Vercel\" in these sentences."
+    ],
+    "representative": "versal : Vercel"
+  },
+  "callous : KALIS": {
+    "og_word": "callous",
+    "pref_word": "KALIS",
+    "occurrence": 2,
+    "context": [
+      "\"KALIS\" represents a specific team name or entity, used here in contexts indicating technical or operational roles, particularly in IT operations and incident management, where \"callous\" would be inappropriate."
+    ],
+    "representative": "callous : KALIS"
+  },
+  "phoenix : Phoenyx": {
+    "og_word": "phoenix",
+    "pref_word": "Phoenyx",
+    "occurrence": 1,
+    "context": [
+      "\"Phoenyx\" correctly denotes a historical bird species, while \"phoenix\" often refers to a mythical firebird; use \"Phoenyx\" when referring to the historical bird, especially in contexts emphasizing its etymology or historical significance."
+    ],
+    "representative": "phoenix : Phoenyx"
+  },
+  "Groo's : Groww's": {
+    "og_word": "Groo's",
+    "pref_word": "Groww's",
+    "occurrence": 1,
+    "context": [
+      "Groww's is used as a proper noun representing a company name, while Groo's appears to be an ASR error or colloquialism; prefer Groww's in formal contexts."
+    ],
+    "representative": "Groo's : Groww's"
+  },
+  "Mayor : Meher": {
+    "og_word": "Mayor",
+    "pref_word": "Meher",
+    "occurrence": 1,
+    "context": [
+      "Meher represents a person's proper name, while Mayor typically refers to a public office holder; \"Meher\" is used as a person's proper name in these contexts."
+    ],
+    "representative": "Mayor : Meher"
+  }
+}

@@ -1,0 +1,7 @@
+streamlit>=1.32,<2.0
+transformers>=4.42,<5.0
+torch>=2.2
+accelerate>=0.30
+sentencepiece>=0.2.0
+protobuf>=4.25
+pytest>=8.0
