@@ -5,7 +5,7 @@ to be copy-pasted as-is from the project root.
 
 ---
 
-## 11. Requirements / dependency setup
+## Requirements / dependency setup
 
 - **Python:** 3.10+ recommended (3.9 minimum).
 - **OS:** any (CPU-only is fully supported; GPU is used automatically if present).
@@ -21,7 +21,7 @@ Python environment.
 
 ---
 
-## 12. Environment variables
+## Environment variables
 
 **None are required.** Kivi runs entirely on local, self-hosted Hugging Face
 models — there is no API key to configure.
@@ -34,7 +34,7 @@ auto-load `.env` files — plain `export`/`set` works fine for a local demo).
 
 ---
 
-## 13. Database setup commands
+## Database setup commands
 
 The SQLite database (`data/memory.db`) is created automatically, empty, the
 first time you run the app or any script below — **no manual creation step
@@ -60,7 +60,7 @@ representative, so it won't create duplicates.
 
 ---
 
-## 14. Start commands
+## Start commands
 
 ```bash
 streamlit run app.py
@@ -71,7 +71,7 @@ see §13.)
 
 ---
 
-## 15. Interface access instructions
+## Interface access instructions
 
 Streamlit prints a local URL on startup — by default:
 
@@ -83,7 +83,7 @@ Open that in a browser. No login/auth is required.
 
 ---
 
-## 16. Primary interactions to try
+## Primary interactions to try
 
 1. **📚 Learn a Correction** — enter an ASR sentence and a preferred sentence
    **with the same number of words** (equal word count triggers the fast,
@@ -105,7 +105,7 @@ Open that in a browser. No login/auth is required.
 
 ---
 
-## 17. Evaluation command
+## Evaluation command
 
 **Option A — inside the running app:** open the **🧪 Validate System** tab,
 confirm `df_combined_test.csv` (already in the project root) is detected,
@@ -137,7 +137,7 @@ Miss/Under-intervention Rate.
 
 ---
 
-## 18. Evaluation output location
+## Evaluation output location
 
 Both evaluation paths write the full per-row results to:
 
