@@ -51,5 +51,5 @@ def _build_pipeline(model_name: str, friendly_name: str):
 
 @st.cache_resource(show_spinner=False)
 def load_small_llm():
-    """Cached small model (~1.5B-class): mapping fallback + summarization."""
+    """Cached small model (~3B-class): mapping fallback + summarization."""
     return _build_pipeline(config.SMALL_MODEL_NAME, "small")
