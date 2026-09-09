@@ -42,7 +42,7 @@ The decision of using LLM doesn't come right away. I first studied a few materia
 
 - 1. The repo consists of a validation file and even the UI has a button clicking which we can already do the validation.
 
-- 2. Now the validation metrics which I am gonna present are obtained by testing the approach on Colab server with LLM having 3B parametres, this was because my laptop is 8gb, 4 core, i3 so it was very difficult to test on it, hence colab was used, the zip file with dataset (for storage and sentence correction tests) and .ipynb file is also attached for validation to confirm that the validation metrics are consistent the following -
+- 2. Now the validation metrics which I am gonna present are obtained by testing the approach on Colab server with LLM having 3B parametres, this was because my laptop is 8gb, 4 core, i3 so it was very difficult to test on it, hence colab was used, the zip file with dataset (for storage and sentence correction tests) and .ipynb file is also attached for validation to confirm that the validation metrics are consistent with the following -
 
 Total Samples : 251
 
@@ -59,6 +59,7 @@ Confusion counts: TP=137, FP=25, FN=36, TN=53
 
 Note :- The metrics might differ because the LLM is a bit undeterministic, but yeah wont differ wildly.
 
+The zip file's ipynb can simply be uploaded to colab with the files then uploaded and "run all" gives the desired file.
 
 ## Limitations -
 
@@ -127,6 +128,7 @@ validation.py      responsible for validating against the test csv
 results_df_test.csv the results expected after validation are in this file, which was obtained by testing the same approach
                     on colab
 metrics.py           is there to give the latency etc. displayed on Front End
+Alternate_testing_colab.zip Zip file with .ipynb and the csv files for validation
 ```
 
 ## Installation
