@@ -36,6 +36,13 @@ config.py         Model names, DB path, generation limits (single config locatio
 requirements.txt  Dependencies
 tests/            Non-LLM-dependent tests (LLM calls are stubbed/mocked)
 data/             SQLite database file lives here (memory.db), created on first run
+memory_export.json consists of all the memory elements needed to populate the database
+populate_memory.py file for populating with initial data (for testing it is required)
+reset_db.py        used for resetting the database by deleting everything stored
+validation.py      responsible for validating against the test csv
+results_df_test.csv the results expected after validation are in this file, which was obtained by testing the same approach
+                    on colab
+metrics.py           is there to give the latency etc. displayed on Front End
 ```
 
 ## Installation
@@ -109,15 +116,8 @@ internet connection the first time.
 - **Slow on first correction** — the relevant model is being downloaded;
   subsequent runs reuse the local cache.
 
-## Tests
+## Validation
 
-```bash
-pip install -r requirements.txt
-pytest tests/ -v
-```
+- Just need to run the app and then click the validate button it will automatically
+  start validating against the df_combined_test.csv
 
-Tests cover the database layer, the SQLite ↔ MemoryElement conversion layer,
-the core memory functions (add/update/edit/give_elements), the deterministic
-mapping path, and `reconstruct_preferred_sentence`'s validation/fallback logic
-— all with the LLM stubbed or bypassed, so no model download is required to
-run them.
