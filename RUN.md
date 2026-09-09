@@ -181,3 +181,7 @@ streamlit run app.py
 # in a second terminal, once dependencies are installed:
 python evaluate.py
 ```
+## Alternate_testing_colab.zip
+
+kindly use that zip file, it has the code and the files needed for testing, just uploading of file and running all cells will give the
+results_df.csv
